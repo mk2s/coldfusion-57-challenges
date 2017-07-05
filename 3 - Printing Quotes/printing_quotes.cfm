@@ -1,6 +1,6 @@
 <cfsetting EnableCFOutputOnly="true">
-<cfparam name="$quote" type="string" default="">
-<cfparam name="$quoted" type="string" default="">
+<cfparam name="$quote" type="string">
+<cfparam name="$quoted" type="string">
 
 <!-- There are a number of ways to do this
   1) use single quote for the string with a double quote inside
